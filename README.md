@@ -1,4 +1,7 @@
-### Hi there 👋
+# Who am I?
++ **Name**: Tsuyoshi Ishida (石田 剛)
++ **Job**: 3rd-year Ph.D student, Institute of Astronomy, the University of Tokyo, Japan
++ **Skill**: Python (intermediate, **main**), C (beginner/intermediate, haven't touched recently)
 
 <!--
 **Hoshock/Hoshock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
