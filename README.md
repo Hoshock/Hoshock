@@ -1,6 +1,6 @@
 # Who am I?
-+ **Name**: Tsuyoshi Ishida (石田 剛)
-+ **Job**: 3rd-year Ph.D student, Institute of Astronomy, the University of Tokyo, Japan
++ **Name**: Tsuyoshi ISHIDA (石田 剛)
++ **Job**: Engineer staff at Weathernews Inc.
 + **Skill**: Python (intermediate, **main**), C (beginner/intermediate, haven't touched recently)
 
 <!--
