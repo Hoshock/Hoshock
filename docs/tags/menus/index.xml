@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>menus on Hosho-tech</title>
-    <link>https://hoshock.github.io/mypage/tags/menus/</link>
+    <link>https://hoshock.github.io/Hoshock/tags/menus/</link>
     <description>Recent content in menus on Hosho-tech</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 27 Sep 2017 10:00:00 +0600</lastBuildDate><atom:link href="https://hoshock.github.io/mypage/tags/menus/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Sep 2017 10:00:00 +0600</lastBuildDate><atom:link href="https://hoshock.github.io/Hoshock/tags/menus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Menus Setup Guide</title>
-      <link>https://hoshock.github.io/mypage/docs/menus/</link>
+      <link>https://hoshock.github.io/Hoshock/docs/menus/</link>
       <pubDate>Wed, 27 Sep 2017 10:00:00 +0600</pubDate>
       
-      <guid>https://hoshock.github.io/mypage/docs/menus/</guid>
+      <guid>https://hoshock.github.io/Hoshock/docs/menus/</guid>
       <description>Minimo has three menus.
  Main Menu Sidebar Menu Social Menu  Main Menu name: main
 Main menu is located at the top of the site.

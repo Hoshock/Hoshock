@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pygments on Hosho-tech</title>
-    <link>https://hoshock.github.io/mypage/tags/pygments/</link>
+    <link>https://hoshock.github.io/Hoshock/tags/pygments/</link>
     <description>Recent content in pygments on Hosho-tech</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 27 Sep 2017 12:00:00 +0600</lastBuildDate><atom:link href="https://hoshock.github.io/mypage/tags/pygments/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Sep 2017 12:00:00 +0600</lastBuildDate><atom:link href="https://hoshock.github.io/Hoshock/tags/pygments/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Syntax Highlighting</title>
-      <link>https://hoshock.github.io/mypage/docs/syntax-highlighting/</link>
+      <link>https://hoshock.github.io/Hoshock/docs/syntax-highlighting/</link>
       <pubDate>Wed, 27 Sep 2017 12:00:00 +0600</pubDate>
       
-      <guid>https://hoshock.github.io/mypage/docs/syntax-highlighting/</guid>
+      <guid>https://hoshock.github.io/Hoshock/docs/syntax-highlighting/</guid>
       <description>Hugo uses Chroma as it&amp;rsquo;s built-in syntax-highlighter.
 For detailed information about Syntax Highlighting in Hugo, check the Hugo&amp;rsquo;s Syntax Highlighting Documentation.</description>
     </item>
