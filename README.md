@@ -2,7 +2,7 @@
 + **Name**: Tsuyoshi ISHIDA (石田 剛)
 + **Job**: Engineer staff at Weathernews Inc.
 + **Skill**: Python (intermediate, **main**), C (beginner/intermediate, haven't touched recently)
-+ **What I like**: domestic trip
++ **What I like**: domestic trip, stargazing
 
 <!--
 **Hoshock/Hoshock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
