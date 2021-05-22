@@ -1,10 +1,12 @@
 baseurl = "https://hoshock.github.io/Hoshock/"
-title = "Mainroad"
-languageCode = "en-us"
+title = "Hosho-tech"
+languageCode = "ja"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+hasCJKLanguage = true
+summaryLength = 120
 
 [Author]
   name = "John Doe"
@@ -19,6 +21,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   authorbox = true
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
+  customCSS = ["css/notosansjp.css", "css/custom.css"]
 
 [Params.logo]
   subtitle = "Just another site" # Logo subtitle
