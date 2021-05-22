@@ -21,7 +21,7 @@ summaryLength = 120
   authorbox = true
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
-  customCSS = ["css/notosansjp.css", "css/custom.css"]
+  customCSS = ["css/custom.css"]
 
 [Params.style.vars]
   highlightColor = "#223cc3" # Override highlight color
