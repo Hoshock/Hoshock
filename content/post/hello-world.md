@@ -8,3 +8,4 @@ categories:
 
 ## Hello, world!
 Welcome to Hosho-tech!
+ようこそHosho-techへ！
