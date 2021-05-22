@@ -1,24 +1,20 @@
 ---
 name: Feature request
-about: Issue template for feature request. No need to fill out all the forms.
+about: Suggest an idea for this project
 assignees: Hoshock
 labels: enhancement
 ---
 
-# Feature Request
+<!-- Please do a quick search of existing issues to make sure that this has not been asked before. -->
 
-## Abstract
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-## Purpose
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-
-## Proposal
-
-
-## Tasks
-+ [ ]
-
-
-## References
-+ []()
+**Additional context**
+Add any other context about the feature request here.
