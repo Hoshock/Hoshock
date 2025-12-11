@@ -31,6 +31,8 @@ I also love astronomy and astrophysics.
 
 [![cloud](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
+![aws](aws.png)
+
 ### Dev Tools
 
 [![dev-tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode,docker,vite,deno)](https://skillicons.dev)
